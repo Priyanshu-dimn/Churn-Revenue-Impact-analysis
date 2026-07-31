@@ -1,4 +1,4 @@
-##📊 Churn & Revenue Impact Analysis
+# 📊 Churn & Revenue Impact Analysis
 
 ## 📌 TL;DR
 - Built a full pipeline (SQLite → pandas → cleaned, merged dataset) and calculated **20+ KPIs** across customer, subscription, and support data
